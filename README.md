@@ -80,4 +80,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ---
 
 ## Contact
-For queries or feedback, please contact [Shubham](mailto:shubhamjaishu@gmail.com).
+For queries or feedback, please contact [Shubham Jaiswal](mailto:shubhamjaishu@gmail.com).
