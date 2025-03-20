@@ -49,7 +49,7 @@ Simple Canvas Site is a foundational project that highlights:
 
 2. Navigate to the project directory:
    ```bash
-   cd simple-canvas-site    
+   cd Learning_Canvas    
 
    ```
 
